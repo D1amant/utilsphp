@@ -4,7 +4,7 @@
 
 Usage:
 
-open terminal and  paste
+open the terminal and  paste
 
 
-sudo composer require luis-util-php/luis-util-php
+sudo  composer require luis-util-php/luis-util-php
